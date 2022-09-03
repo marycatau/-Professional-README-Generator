@@ -8,7 +8,7 @@
 
 * Link to the sample of the generated readme.md file
 
-  https://github.com/marycatau/-Professional-README-Generator/blob/main/ReadmeSample.md
+  https://github.com/marycatau/Professional-README-Generator/blob/main/ReadmeSample.md
 
 
 * Link to walkthrough video
