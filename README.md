@@ -1,4 +1,4 @@
-# Module Nine Challenge --- Professional README Generator
+# Module Nine Challenge --- Professional README Generator 
 
 * Description
 
@@ -6,16 +6,14 @@
 
 
 
-* Screenshot of deployed Application
+* Link to the sample of the generated readme.md file
 
-![ScreenShot of the deployed application](https://github.com/marycatau/Weather-Dashboard/blob/main/assets/image/Screenshot%20of%20the%20deployed%20Application.jpeg?raw=true)
+  https://github.com/marycatau/-Professional-README-Generator/blob/main/ReadmeSample.md
 
 
 * Link to walkthrough video
 
-  https://marycatau.github.io/Weather-Dashboard/
+  https://drive.google.com/file/d/1GTLQHYHyGFJISD7pSTxZuOpDGKkMJrZl/view?usp=sharing
 
 
 
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
